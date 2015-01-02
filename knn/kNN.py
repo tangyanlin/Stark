@@ -1,3 +1,4 @@
+#encoding:utf-8
 '''
 Created on Sep 16, 2010
 kNN: k Nearest Neighbors
